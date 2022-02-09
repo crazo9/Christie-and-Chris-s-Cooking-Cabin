@@ -1,2 +1,20 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE hmtl>
+
+<html>
+<title> Christie and Chris's Cooking Cabin </title>
+   
+   <frameset cols = "25%,75%">
+      <frame name = "left" src = "/html/top_frame.htm" />
+      <frame name = "right" src = "/html/bottom_frame.htm" />
+      
+      <noframes>
+         <body>Your browser does not support frames.</body>
+      </noframes>
+   </frameset>
+   
+</html>
+
+
+
+</body
+</html>
